@@ -1,0 +1,8 @@
+<litepal>
+    <dbname value = "BookDataBase"/>
+    <version value = "2"/>
+    <list>
+        <mapping class = "com.example.asus.litepal.Book"></mapping>
+        <mapping class = "com.example.asus.litepal.Category"></mapping>
+    </list>
+</litepal>
